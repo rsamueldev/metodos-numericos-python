@@ -1,4 +1,5 @@
 from biseccion import biseccion
+from newtonRaphson import newtonRaphson
 import os
 
 def main():
@@ -23,8 +24,10 @@ def main():
         elif op == '2':
             os.system("cls") #Limpia pantalla
             x0 = float(input("Ingresa el valor incial de x0: "))
-            err = float(input("Ingrese el error relativo: "))
-            #Funcion de newton-raphson a crear
+            a = float(input("Ingresa el intervalo a: "))
+            b = float(input("Ingresa el intervalo b: "))
+            err_relativo = float(input("Ingrese el error relativo: "))
+            newtonRaphson(expr_str, x0, a, b, err_relativo)
             break
 
 if __name__ == "__main__":
