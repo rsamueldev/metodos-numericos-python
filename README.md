@@ -14,9 +14,3 @@ Este repositorio contiene una colección de algoritmos fundamentales de **Cálcu
 2.  **Cálculo de Error:** Utiliza la librería `SymPy` para obtener la solución exacta mediante integración simbólica y calcular el **error relativo** de la aproximación.
 3.  **Optimización:** Uso de `lambdify` para convertir expresiones simbólicas en funciones numéricas de alto rendimiento.
 
-## 📋 Requisitos
-
-Para ejecutar estos scripts, necesitarás instalar las siguientes dependencias:
-
-```bash
-pip install sympy
