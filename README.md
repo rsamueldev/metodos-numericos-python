@@ -4,9 +4,9 @@ Este repositorio contiene una colección de algoritmos fundamentales de **Cálcu
 
 ## 🚀 Algoritmos Implementados
 
-* **Integración Numérica:** Sumas de Riemann (Extremo Izquierdo).
-* **Búsqueda de Raíces:** Método de Bisección (Próximamente).
-* **Búsqueda de Raíces:** Método de Newton-Raphson (Próximamente).
+* **Integración Numérica:** Sumas de Riemann.
+* **Búsqueda de Raíces:** Método de Bisección.
+* **Búsqueda de Raíces:** Método de Newton-Raphson.
 
 ## 🛠️ Características Principales
 
